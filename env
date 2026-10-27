@@ -1,4 +1,0 @@
-# Copy this file to .env and fill in the values. Never commit .env.
-
-# Port for the Node API server
-PORT=5000
